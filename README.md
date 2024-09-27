@@ -18,8 +18,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_dash/rcti-sports
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar3/sa_dash/rcti-sportstar3.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar4/sa_dash/rcti-sportstar4.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/gtv-hd/sa_dash/gtv-hd.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-rcti-dd/sa_dash/rcti-rcti-dd.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -167,59 +166,7 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=1102186.ts
 
-************************** SSC
 
-#EXTINF:-1 group-title="AR SSC" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=255472.ts
- 
-#EXTINF:-1 group-title="AR SSC" tvg-id="SSC 2" tvg-logo="https://i.ibb.co/d5cDvgD/Untitled-1-32.png", SSC 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live//live/soufiand_167041/FHdPmgtp/314036.ts
-
-#EXTINF:-1 group-title="AR SSC" tvg-id="SSC 3" tvg-logo="https://i.ibb.co/G0VBvmQ/Untitled-1-38.png", SSC 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=150635.ts
- 
-#EXTINF:-1 group-title="AR SSC" tvg-id="SSC 4" tvg-logo="https://i.ibb.co/KFn4pR0/Untitled-1-33.png", SSC 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=314034.ts
-
-#EXTINF:-1 group-title="AR SSC" tvg-id="SSC 5" tvg-logo="https://i.ibb.co/2YMmF4s/Untitled-1-34.png", SSC 5
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live//live/soufiand_167041/FHdPmgtp/150639.ts
-
-#EXTINF:-1 group-title="AR SSC" tvg-logo="https://i.ibb.co/jD6030b/Untitled-1-35.png", SSC EXTRA 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=255479.ts
-
-#EXTINF:-1 group-title=" AR SSC" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co/qjCsRX5/Untitled-1-36.png", SSC EXTRA 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=255480.ts
-
-********************** TRUE SPORT
-#EXTINF:-1 group-title="AR TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png ",True Premier Football 1 
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191779.ts
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191792.ts
-
-#EXTINF:-1 group-title=" AR TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png ",True Premier Football 2 
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191788.ts
-
-
-#EXTINF:-1 group-title=" AR TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png ",True Premier Football 3 
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191784.ts
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191771.ts
-
-
-
-#EXTINF:-1 group-title=" AR TRUE PREMIER " tvg-logo=" https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png ",True Premier Football 4 
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191782.ts
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191772.ts
-
-
-
-#EXTINF:-1 group-title=" AR TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp ",True Premier Football 5 
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=191771.ts
 
 *******************************************************
 

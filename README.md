@@ -18,8 +18,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_dash/rcti-sports
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar3/sa_dash/rcti-sportstar3.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar4/sa_dash/rcti-sportstar4.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-GTV-HD/sa_dash/RCTI-GTV-HD.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/gtv-hd/sa_dash/gtv-hd.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-rcti-dd/sa_dash/rcti-rcti-dd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

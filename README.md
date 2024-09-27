@@ -15,7 +15,8 @@ https://streaming.campursarifm.com/listen/campursari/campursari892
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_dash/rcti-sportstar.mpd
-
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-gtv-hd/sa_dash/rcti-gtv-hd.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-dd/sa_dash/rcti-dd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

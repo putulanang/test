@@ -354,8 +354,11 @@ https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="EMTEX @  ", SCTV pass
+http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
-
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="EMTEX @ ", INDOSIAR pass
+http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 **************************************** EMTEX************************************************
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title=" moji ",MOJI (Indi)

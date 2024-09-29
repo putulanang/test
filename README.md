@@ -222,21 +222,6 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-********************************** ASTRO AR
-#EXTINF:-1 group-title=" AR Sports ASTRO  " tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=306395.ts
-
-#EXTINF:-1 group-title=" AR Sports ASTRO" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=306397.ts
-
-#EXTINF:-1 group-title="AR Sports ASTRO " tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=306398.ts
-
-#EXTINF:-1 group-title="AR Sports ASTRO " tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
-http://m3u.tz-m3u.live//live/soufiand_167041/FHdPmgtp/306399.ts
-
-#EXTINF:-1 group-title="AR Sports ASTRO " tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP5.png",AstroSupersport 5
-http://m3u.tz-m3u.live/live.php?u=soufiand_167041&p=FHdPmgtp&s=306400.ts
 
 ******************************************************************
 

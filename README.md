@@ -874,6 +874,26 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Mani
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="CHANNEL | SPORT 2", ESPN HD 
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/131.ts
+
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="CHANNEL | SPORTS", ESPN 2 
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/135.ts
+
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="CHANNEL | SPORTS", ESPN 3 
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/126.ts
+
+#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="CHANNEL | SPORTS", ESPN 4 
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/143.ts
+
+#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title="CHANNEL | SPORTS", ESPN 5 
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/140.ts
+
+#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title="CHANNEL | SPORTS", ESPN 6 
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/134.ts
+
+ 
+
 
 
 

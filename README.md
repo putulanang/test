@@ -492,16 +492,6 @@ https://ddy5.mizhls.ru/ddy5/premium126/tracks-v1a1/mono.m3u8
 
 *******************************************************MIMIPIPI EMTEX***************************
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="MIMIPIPI",MOJI 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="MIMIPIPI",SCTV 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
-
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="MIMIPIPI",INDOSIAR 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
-
-################################################################################################################
 
 
 

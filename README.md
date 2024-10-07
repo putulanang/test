@@ -450,6 +450,22 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 
 ******************ASTRO
 
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png " group-title="SPORTS",Astro.Sports
+https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
+#EXTINF:-1  tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg " group-title="SPORTS",Astro.Sports 2
+https://mhdtv.co.in/daddy/stream.m3u8?id=124|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png " group-title="SPORTS",Astro.Sports 3
+https://mhdtv.co.in/daddy/stream.m3u8?id=125|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="SPORTS",Astro.Sports 4
+https://mhdtv.co.in/daddy/stream.m3u8?id=126|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
+
+*"""""""*********
+
 #EXTINF:-1 group-title="Sports ASTRO1 " tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
 http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
 

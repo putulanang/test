@@ -450,6 +450,31 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 
 ******************ASTRO
 
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="astro",ASTRO SUPERSPORT 4(A)
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
+
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="astro",ASTRO SUPERSPORT 4(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
+
+
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png " group-title="SPORTS",Astro.Sports

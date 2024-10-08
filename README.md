@@ -658,10 +658,6 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0c
 
 #EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg" group-title="SPORT", SSC Sport 1
 https://cdn.footballii.ir/hls2/ssc1s.m3u8
-https://cdn.footballii.ir/hls2/ssc2s.m3u8
-https://cdn.footballii.ir/hls2/ssc3s.m3u8
-https://cdn.footballii.ir/hls2/ssc4s.m3u8
-https://cdn.footballii.ir/hls2/ssc5s.m3u8
 
 #EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg" group-title="SPORT", SSC Sport B
 https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1

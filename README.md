@@ -653,11 +653,39 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927f
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
-**********************************************************************************************
+******************************SSC
 
 
-***************************************BEIN SPORTS AIS *******************************************
+#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg" group-title="SPORT", SSC Sport 1
+https://cdn.footballii.ir/hls2/ssc1s.m3u8
+https://cdn.footballii.ir/hls2/ssc2s.m3u8
+https://cdn.footballii.ir/hls2/ssc3s.m3u8
+https://cdn.footballii.ir/hls2/ssc4s.m3u8
+https://cdn.footballii.ir/hls2/ssc5s.m3u8
 
+#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg" group-title="SPORT", SSC Sport B
+https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/bvmBeI4.jpeg" group-title="SPORT", SSC Sport 2
+https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/bO3OmI9.jpeg" group-title="SPORT", SSC Sport 3
+https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/CMBXGMj.jpeg" group-title="SPORT", SSC Sport 4
+https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/Sjtg2Iq.jpeg" group-title="SPORT", SSC Sport 5
+https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/RbsqRIJ.jpeg" group-title="SPORT", SSC Sport Extra 1
+https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="SPORT", SSC Sport Extra 2
+https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="SPORT", SSC Sport Extra 3
+https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 

@@ -233,41 +233,50 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 http://46.165.202.33:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png " tvg-name="hbo2 " group-title="HBO GROUP ", HBO 2 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.22.54:2052/Xxcanal665/Hftuiu678i/107
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/113
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.22.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/248.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZglYXD.png " tvg-id="id" tvg-name="hbo+ " group-title="HBO GROUP ", HBO+ HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/114
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/245.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjjHJlc.png " tvg-id="id" tvg-name="hbo " group-title="HBO GROUP ", HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.59:2052/Xxcanal665/Hftuiu678i/111
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/255.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZgrAQC.png " tvg-id="id" tvg-name="hbo family " group-title="HBO GROUP ", HBO FAMILY
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/112
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/253.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZcQGxJ.png " tvg-id="id" tvg-name="hbo sig " group-title="HBO GROUP ", HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/107
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBnoj8p.png " tvg-id="id" tvg-name="hbo pop " group-title="HBO GROUP ", HBO POP
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/108
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/261.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umRkreN.png " tvg-id="id" tvg-name="hbo ex " group-title="HBO GROUP ", HBO EXTREME
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/106
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
+
 
 #EXTINF:-1 tvg-logo="blob:https://imgur.com/3214488f-7afe-4728-8639-fb41e8e0cd2f " tvg-id="id" tvg-name="hbo mundi " group-title="HBO GROUP ", HBO MUNDI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/110
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/257.ts
+
 
 
 #EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name="hbo mundi " group-title="HBO GROUP ", hbo plus
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/109
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/259.ts
+
 
 
 

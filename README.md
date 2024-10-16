@@ -307,13 +307,27 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/259.ts
 
 ************************************************************************
 
+#EXTINF:-1 tvg-id=" " tvg-name="Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="DENTV ", moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="DENTV ", sctv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Id" tvg-logo="https://i.ibb.co.com/xjNQwrH/indosiar.png" group-title="DENTV ", INDOSIAR 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-name="Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="indihome ", moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZS.mpd
-
-
-
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-id=" " tvg-name="Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="indihome ", sctv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -371,9 +385,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title=" moji ",MOJI (Den)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
 
 #EXTINF:-1 group-title=" moji" tvg-id="MOJI" tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true",MOJI (iptvtree)
 http://w.nasvpn.xyz:25461/live/haji/haji/13312.m3u8

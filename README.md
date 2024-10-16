@@ -373,7 +373,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title=" moji" tvg-id="MOJI" tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true",MOJI (iptvtree)
 http://w.nasvpn.xyz:25461/live/haji/haji/13312.m3u8

@@ -1073,14 +1073,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
+#EXTINF:-1 tvg-id="KBS.Id" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg " group-title="DENTV ",CREMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:-1 tvg-id="KBS.Id" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg " group-title="DENTV ",LIFE STYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
 ********************************************************************************
 
 
-#EXTINF:-1,Unknown 1
-http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-#EXTINF:-1,Unknown 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+
+
+
+
 
 #EXTINF:-1,Unknown 2
 http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8

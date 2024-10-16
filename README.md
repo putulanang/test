@@ -1021,11 +1021,80 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
-
+******************************* DENTV
 
 #EXTM3U
-#EXTINF:-1,Unknown 0
+#EXTINF:-1 tvg-id="ANIPLUS.Id" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg " group-title=" DENTV",ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
+#EXTINF:-1 tvg-id="FightSports.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/fight-sport.png " group-title=" DENTV",Fight Sports
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+
+#EXTINF:-1 group-title=" DENTV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title=" DENTV" tvg-id="JOWO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png ",Channel Jowo
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:-1 group-title=" DENTV" tvg-id="BTV.id" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg ",BTV
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
+#EXTINF:-1 tvg-id="CelestialMovies.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/celestial-movies.png " group-title="DENTV ",Celestial 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+
+#EXTINF:-1 tvg-id="Rock_Entertainment.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png " group-title="DENTV ", Rock Entertainment
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#EXTINF:-1 tvg-id="tvNMovies.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tvn-movies.png " group-title=" DENTV",tvN Movies
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="DENTV", SCTV 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/280px-Rock_Action.png " group-title="DENTV", Rock Action
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:-1 tvg-id="K +" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="DENTV ",K+
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+
+#EXTINF:-1 tvg-id="KIX.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/kix.png " group-title="DENTV ",KIX
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:-1 tvg-id="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg.Id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg " group-title="DENTV ",[DFC FOOD](https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg)
+http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:-1,Unknown 21
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/net-tv.png " group-title="DENTV ",Net.
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tv-one.png " group-title=" DENTV",TVONE
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+
+#EXTINF:-1 tvg-id="RodjaTV.Id" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="DENTV",RodjaTV
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/kompas-tv.png " group-title="DENTV ",Kompas TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title=" DENTV", INDOSIAR 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+
+#EXTINF:-1 tvg-id="CelestialClassicMovie.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/celestial-classic.png " group-title="DENTV ",Celestial Classic
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
+#EXTINF:-1 tvg-id="KBS.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/512px-KBS_logo_2023.svg.png " group-title="DENTV ",KBS KOREA
+http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
+#EXTINF:-1 tvg-id="KBS.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/1280px-KBS_World.svg.png " group-title="DENTV ",KBS WORLD
+http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
+********************************************************************************
+
 
 #EXTINF:-1,Unknown 1
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
@@ -1033,68 +1102,23 @@ http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 #EXTINF:-1,Unknown 2
 http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
 
-#EXTINF:-1,Unknown 3
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
-
 #EXTINF:-1,Unknown 4
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
 #EXTINF:-1,Unknown 5
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:-1,Unknown 6
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1,Unknown 7
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-
 #EXTINF:-1,Unknown 8
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
-#EXTINF:-1,Unknown 9
-http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
-
 #EXTINF:-1,Unknown 10
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-
-#EXTINF:-1,Unknown 11
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-
-#EXTINF:-1,Unknown 12
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-
-#EXTINF:-1,Unknown 13
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
 #EXTINF:-1,Unknown 14
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
 #EXTINF:-1,Unknown 15
 http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
-
-#EXTINF:-1,Unknown 16
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1,Unknown 17
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-
-#EXTINF:-1,Unknown 18
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
-
-#EXTINF:-1,Unknown 19
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:-1,Unknown 20
-http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-
-#EXTINF:-1,Unknown 21
-http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-
-#EXTINF:-1,Unknown 22
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTINF:-1,Unknown 23
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF:-1,Unknown 24
 http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
@@ -1117,15 +1141,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h231/02.m3u8
 #EXTINF:-1,Unknown 31
 http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
 
-#EXTINF:-1,Unknown 32
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-
-#EXTINF:-1,Unknown 33
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-
-#EXTINF:-1,Unknown 34
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
 #EXTINF:-1,Unknown 35
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
@@ -1135,20 +1150,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTINF:-1,Unknown 37
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 
-#EXTINF:-1,Unknown 38
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-
 #EXTINF:-1,Unknown 39
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
-#EXTINF:-1,Unknown 40
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-
 #EXTINF:-1,Unknown 41
 http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
-
-#EXTINF:-1,Unknown 42
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1,Unknown 43
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8

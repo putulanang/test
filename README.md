@@ -59,7 +59,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar4-hd/sa_dash/rcti-sp
 #EXTINF:-1 group-title="GTV" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png", GTV Ri
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-
+https://d2tjypxxy769fn.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #EXTINF:-1 group-title="m3u8 ss" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 

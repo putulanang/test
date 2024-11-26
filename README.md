@@ -249,12 +249,12 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/253.ts
 
-*****************************************************************
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title="HBO CubMu",HBO Signature 
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title=" MOVIES",HBO Signature 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
 
+**********************************************************
 
 
 
@@ -309,10 +309,10 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/257.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/259.ts
 
-************************************************************************
+****************************** HBO FMX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0 " group-title="HBO-FMX",HBO
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO-FMX",HBO
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBO.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -328,12 +328,12 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0 " group-title="HBO-FMX",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-FMX",HBO Signature
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOSignature.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/Z9Q8nIu.png " group-title="HBO-FMX",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
 
 

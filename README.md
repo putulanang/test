@@ -161,7 +161,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 
 #EXTINF:-1 group-title="SPORTS " tvg-name="STARSPORT 3" tvg-country="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -173,6 +173,7 @@ https://dusk.biz.id/visas/index.mpd?id=1002
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1013
+https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://dusk.biz.id/visas/index.mpd?id=1013
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

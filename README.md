@@ -233,6 +233,32 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 ******************************************************************
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Q8nIu.png" group-title=" MOVIES", CINEMAX 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.33:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="MOVIES ",HBO 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/255.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umRkreN.png " tvg-id="id" tvg-name="hbo ex " group-title="MOVIES ", HBO EXTREME
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0" group-title="MOVIES ",HBO Family 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/253.ts
+
+*****************************************************************
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title="HBO CubMu",HBO Signature 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.pn " tvg-name="cinemax " group-title="HBO GROUP ", CINEMAX
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2

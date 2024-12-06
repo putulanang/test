@@ -227,6 +227,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
 https://dusk.biz.id/visas/index.mpd?id=1002
+https://dusk.biz.id/visas/index.mpd?id=1003
+https://dusk.biz.id/visas/index.mpd?id=1004
+https://dusk.biz.id/visas/index.mpd?id=1005
+https://dusk.biz.id/visas/index.mpd?id=1006
+https://dusk.biz.id/visas/index.mpd?id=1007
+
+
+
 
 #EXTINF:-1 group-title="SPORTS " tvg-name="STARSPORT 4" tvg-country="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",Sportstar 4 HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS

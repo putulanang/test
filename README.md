@@ -376,7 +376,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Q8nIu.png" group-title=" MOVIES", CINEMAX 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.33:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240.ts
 
 #EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="MOVIES ",HBO 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2

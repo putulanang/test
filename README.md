@@ -370,6 +370,26 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
+______________________________________________________-
+
+
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png ",True Premier Football 1 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117331 
+
+
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png ",True Premier Football 2 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117330 
+
+
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png ",True Premier Football 3 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
+
+
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo=" https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png ",True Premier Football 4 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328 
+
+ #EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp ",True Premier Football 5 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
 
 ******************************************************************
 

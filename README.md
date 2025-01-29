@@ -423,7 +423,7 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.pn " tvg-name="cinemax " group-title="HBO GROUP ", CINEMAX
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://46.165.202.33:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png " tvg-name="hbo2 " group-title="HBO GROUP ", HBO 2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.22.2

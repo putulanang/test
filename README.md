@@ -535,107 +535,7 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
 
-***************************************** HBO CUBMU*******************************************************************
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Q8nIu.png" group-title="HBO CubMu", CINEMAX trenztv
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="HBO CubMu",HBO trenztv
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0" group-title="HBO CubMu",HBO Hits trenztv
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTINF:0 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0" group-title="HBO CubMu",HBO Family Asia trenztv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title="HBO CubMu",HBO Signature trenztv
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-********************************************************
-#EXTGRP:HBO Cubmu
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO pukgeruk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTGRP:HBO Cubmu
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO iptvgo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
-
-#EXTGRP:HBO Cubmu
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO konslet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
-
-
-
-
-
-******************ASTRO
-
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
-
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
-
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
-
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="astro" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
-
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="astro",ASTRO SUPERSPORT 4(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
-
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="astro",ASTRO SUPERSPORT 4(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
-
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png " group-title="SPORTS",Astro.Sports
-https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
-
-#EXTINF:-1  tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg " group-title="SPORTS",Astro.Sports 2
-https://mhdtv.co.in/daddy/stream.m3u8?id=124|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png " group-title="SPORTS",Astro.Sports 3
-https://mhdtv.co.in/daddy/stream.m3u8?id=125|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="SPORTS",Astro.Sports 4
-https://mhdtv.co.in/daddy/stream.m3u8?id=126|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
 
 *"""""""*********
 
@@ -652,29 +552,6 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 
 
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
-https://ddy5.mizhls.ru/ddy5/premium123/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
-https://ddy5.mizhls.ru/ddy5/premium124/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
-https://ddy5.mizhls.ru/ddy5/premium125/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports ASTRO2" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
-https://ddy5.mizhls.ru/ddy5/premium126/tracks-v1a1/mono.m3u8
 
 
 
@@ -743,35 +620,6 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927f
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
-******************************SSC
-
-
-#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg" group-title="SPORT", SSC Sport 1
-https://cdn.footballii.ir/hls2/ssc1s.m3u8
-
-#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg" group-title="SPORT", SSC Sport B
-https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/bvmBeI4.jpeg" group-title="SPORT", SSC Sport 2
-https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/bO3OmI9.jpeg" group-title="SPORT", SSC Sport 3
-https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/CMBXGMj.jpeg" group-title="SPORT", SSC Sport 4
-https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/Sjtg2Iq.jpeg" group-title="SPORT", SSC Sport 5
-https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/RbsqRIJ.jpeg" group-title="SPORT", SSC Sport Extra 1
-https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="SPORT", SSC Sport Extra 2
-https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="SPORT", SSC Sport Extra 3
-https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 
@@ -817,22 +665,22 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 
 ***************************** ESPN
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="CHANNEL | SPORTS", ESPN HD 
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title=" ESPN | SPORTS", ESPN HD 
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/131.ts
 
-#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="CHANNEL | SPORTS", ESPN 2 
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title=" ESPN | SPORTS", ESPN 2 
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/135.ts
 
-#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="CHANNEL | SPORTS", ESPN 3 
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title=" ESPN | SPORTS", ESPN 3 
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/126.ts
 
-#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="CHANNEL | SPORTS", ESPN 4 
+#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title=" ESPN | SPORTS", ESPN 4 
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/143.ts
 
-#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title="CHANNEL | SPORTS", ESPN 5 
+#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title=" ESPN | SPORTS", ESPN 5 
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/140.ts
 
-#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title="CHANNEL | SPORTS", ESPN 6 
+#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title=" ESPN | SPORTS", ESPN 6 
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/134.ts
 
 
@@ -1027,7 +875,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/02.m3u8
  
 
 
-#EXTINF:-1 tvg-id="6" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jp " group-title="🌀 Dens TV", JOWO CHANEL
+#EXTINF:-1 tvg-id="5" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jp " group-title="🌀 Dens TV", JOWO CHANEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h108/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Channel_Jowo
 

@@ -150,10 +150,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co.com/thFkNxM/soccerch.png" group-title="MPD SPORT", ~~SOCCER CHANNEL DEz
@@ -163,8 +159,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_dash/rcti-sportstar.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar3-hd/sa_dash/rcti-sportstar3-hd.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar4-hd/sa_dash/rcti-sportstar4-hd.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -253,18 +247,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports4-HD/sa_dash_vmx/MNCSpor
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
-http://vo01.mohdtv.com:8880/ALLChannelsDC91BF69C9B8/13736117/59220
-
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
-http://vo01.mohdtv.com:8880/ALLChannelsDC91BF69C9B8/13736117/59219
-
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
-http://vo01.mohdtv.com:8880/ALLChannelsDC91BF69C9B8/13736117/59218
-
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
-http://vo01.mohdtv.com:8880/ALLChannelsDC91BF69C9B8/13736117/59217
-
 
 ***************************BEIN SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYfSs3X.jpg " tvg-id="id" tvg-name="bein " group-title="BEIN SPORTS ", bein sports 1
@@ -348,26 +330,9 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-______________________________________________________-
 
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png ",True Premier Football 1 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117331 
 
-
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png ",True Premier Football 2 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117330 
-
-
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png ",True Premier Football 3 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117329 
-
-
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo=" https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png ",True Premier Football 4 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117328 
-
- #EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp ",True Premier Football 5 
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117327
 
 ******************************************************************
 

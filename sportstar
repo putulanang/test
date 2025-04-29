@@ -511,7 +511,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
-#EXTINF:-1 tvg-id="Nick.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/nicklodeon.png " group-title=" KIDS
+#EXTINF:-1 tvg-id="Nick.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/nicklodeon.png " group-title=" KIDS ",Nickelodean
  ",Nickelodeon
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36

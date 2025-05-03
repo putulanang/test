@@ -3,6 +3,21 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh=360
 
+#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="Nasional", Indosiar Digital
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2707.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2702.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
